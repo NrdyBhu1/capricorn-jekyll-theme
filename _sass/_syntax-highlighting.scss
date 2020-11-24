@@ -4,7 +4,8 @@
  .highlight {
     background: darken(#fff, 15%);
     overflow-x: scroll;
-    padding: 5%;
+    padding: 1.5%;
+    font-size: 40px;
 
     .highlighter-rouge & {
       background: #eef;
