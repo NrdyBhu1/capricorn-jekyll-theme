@@ -11,6 +11,9 @@ github_username:  Jekyll
 
 favicon: favicon.ico
 
+jekyll-mentions:
+  base_url: https://twitter.com
+
 collections:
   posts:
     permalink: "/blog/:title:output_ext"
