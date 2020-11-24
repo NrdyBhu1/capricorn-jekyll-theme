@@ -9,6 +9,16 @@ a{
         color: chocolate;
         border-bottom: 5px dashed chocolate;
     }
+
+    &.download{
+        color: #000;
+        
+        &:hover{
+            color: #fff;
+            border-bottom: none;
+        }
+
+    }
 }
 
 footer p{

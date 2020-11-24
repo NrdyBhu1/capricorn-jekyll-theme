@@ -14,7 +14,7 @@ Currently I am using `Unity 2019.4.10`, So this can be applicable for future ver
 I have a pre-prepared scene with only particles moving randomly. \
 \
 \
-<a href="{{ '/zips/BlurShader.zip' | relative_url }}"><button>Download Assets <i class="fas fa-download"></i></button></a> \
+<a class="download" href="{{ '/zips/BlurShader.zip' | relative_url }}"><button>Download Assets <i class="fas fa-download"></i></button></a> \
 \
 \
 Lets start by creating a C# script and call it GameManager.cs \
@@ -138,4 +138,4 @@ Everything should work as expected. \
 Hit the Escape key to pause the game. \
 \
 \
-<a href="https://github.com/NrdyBhu1/Custom-Mouse-Cursor/archive/master.zip"><button>Download project files <i class="fas fa-download"></i></button></a> 
+<a class="download" href="https://github.com/NrdyBhu1/Custom-Mouse-Cursor/archive/master.zip"><button>Download project files <i class="fas fa-download"></i></button></a> 

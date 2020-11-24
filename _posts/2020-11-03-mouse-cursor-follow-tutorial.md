@@ -14,7 +14,7 @@ Currently I am using `Unity 2019.4.10`, So this can be applicable for future ver
 We shall start with the default `Sample Scene` \
 \
 \
-<a href="{{ '/zips/Follow.zip' | relative_url }}"><button>Download Assets <i class="fas fa-download"></i></button></a> \
+<a class="download" href="{{ '/zips/Follow.zip' | relative_url }}"><button>Download Assets <i class="fas fa-download"></i></button></a> \
 \
 \
 Lets start by creating a C# script and call it MouseCursorFollow.cs \
@@ -108,4 +108,4 @@ Now go into the unity editor and hit play. \
 Everything should work as expected. \
 \
 \
-<a href="https://github.com/NrdyBhu1/Mouse-Cursor-Follow/archive/master.zip"><button>Download project files <i class="fas fa-download"></i></button></a> 
+<a class="download" href="https://github.com/NrdyBhu1/Mouse-Cursor-Follow/archive/master.zip"><button>Download project files <i class="fas fa-download"></i></button></a> 

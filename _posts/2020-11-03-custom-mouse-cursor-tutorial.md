@@ -17,7 +17,7 @@ I use [VS-Code IDE](https://code.visualstudio.com) as it is light weight, but yo
 Download the assets here to get started along with me. \
 \
 \
-<a href="{{ '/zips/Assets.zip' | relative_url }}"><button>Download Assets <i class="fas fa-download"></i></button></a> \
+<a class="download" href="{{ '/zips/Assets.zip' | relative_url }}"><button>Download Assets <i class="fas fa-download"></i></button></a> \
 \
 \
 Lets start by creating a C# script and call it GameManager.cs \
@@ -122,4 +122,4 @@ Now go into the unity editor and hit play. \
 Everything should work as expected. \
 \
 \
-<a href="https://github.com/NrdyBhu1/Custom-Mouse-Cursor/archive/master.zip"><button>Download project files <i class="fas fa-download"></i></button></a> 
+<a class="download" href="https://github.com/NrdyBhu1/Custom-Mouse-Cursor/archive/master.zip"><button>Download project files <i class="fas fa-download"></i></button></a> 
