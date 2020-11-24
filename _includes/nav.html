@@ -1,0 +1,5 @@
+<nav id="primary-nav">
+	{%- for nav in site.data.primary_nav -%}
+		<a class="nav-link" href="{{ nav.url }}"><button class="nav-btn">{{ nav.name }}</button></a>
+	{%- endfor -%}
+</nav>

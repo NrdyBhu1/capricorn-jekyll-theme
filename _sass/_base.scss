@@ -19,6 +19,16 @@ a{
         }
 
     }
+
+    &.nav-link{
+        color: darkorange;
+        
+        &:hover{
+            color: #fff;
+            border-bottom: none;
+        }
+
+    }
 }
 
 footer p{
@@ -35,12 +45,23 @@ button{
     font-size: 20px;
     background: none;
     transition: 0.7s linear;
-}
 
-button:hover{
-    color: white;
-    background-color: black;
-    cursor: pointer;
+    &:hover{
+        color: white;
+        background-color: black;
+        cursor: pointer;
+    }
+
+    &.nav-btn{
+        color: darkorange;
+        border: 4px solid darkorange;
+
+        &:hover{
+            color: white;
+            background-color: darkorange;
+            cursor: pointer;
+        }
+    }
 }
 
 .content{
