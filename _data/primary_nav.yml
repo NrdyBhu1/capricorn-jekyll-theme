@@ -2,3 +2,5 @@
   url: /
 - name: About
   url: /about/
+- name: Blogs
+  url: /blog/
